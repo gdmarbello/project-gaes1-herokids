@@ -1,0 +1,540 @@
+<mxfile host="app.diagrams.net" modified="2023-06-07T21:13:34.752Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="vwkqVVllvbbW-tTx9_46" version="21.3.2" type="google">
+  <diagram name="Página-1" id="3h7qh6CnIOmWa3giQOZi">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="4000" pageHeight="2300" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="zVnAbdgR_E_ziGiumIPv-10" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;b&gt;CASO DE USO (MÓDULO GESTIÓN DE USUARIOS)&lt;/b&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="-2241" y="122" width="450" height="450" as="geometry" />
+        </mxCell>
+        <mxCell id="zVnAbdgR_E_ziGiumIPv-28" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="zVnAbdgR_E_ziGiumIPv-7" target="zVnAbdgR_E_ziGiumIPv-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zVnAbdgR_E_ziGiumIPv-30" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="zVnAbdgR_E_ziGiumIPv-7" target="zVnAbdgR_E_ziGiumIPv-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zVnAbdgR_E_ziGiumIPv-31" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="zVnAbdgR_E_ziGiumIPv-7" target="zVnAbdgR_E_ziGiumIPv-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zVnAbdgR_E_ziGiumIPv-32" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="zVnAbdgR_E_ziGiumIPv-7" target="zVnAbdgR_E_ziGiumIPv-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zVnAbdgR_E_ziGiumIPv-7" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;COORDINADOR&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;br&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2383" y="289" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zVnAbdgR_E_ziGiumIPv-11" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Seleccione el perfil correspondiente&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2183" y="184" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="zVnAbdgR_E_ziGiumIPv-12" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Ingresar usuario &lt;br&gt;y contraseña&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2183" y="274" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zVnAbdgR_E_ziGiumIPv-13" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Oprimir el módulo&lt;br&gt;&lt;/font&gt;&lt;/font&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;gestión de usuarios&lt;/font&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2188" y="354" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zVnAbdgR_E_ziGiumIPv-23" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="zVnAbdgR_E_ziGiumIPv-14" target="zVnAbdgR_E_ziGiumIPv-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zVnAbdgR_E_ziGiumIPv-27" value="INCLUDE" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=-1;" vertex="1" connectable="0" parent="zVnAbdgR_E_ziGiumIPv-23">
+          <mxGeometry x="0.2235" y="1" relative="1" as="geometry">
+            <mxPoint x="-27" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zVnAbdgR_E_ziGiumIPv-14" value="Oprimir cerrar&lt;br&gt;sesión" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2177.5" y="438" width="95" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="zVnAbdgR_E_ziGiumIPv-19" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="fHkMPUWU0p0HW0aizDeC-3" target="zVnAbdgR_E_ziGiumIPv-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1947" y="385" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zVnAbdgR_E_ziGiumIPv-25" value="EXTEND" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="zVnAbdgR_E_ziGiumIPv-19">
+          <mxGeometry x="0.1448" y="1" relative="1" as="geometry">
+            <mxPoint x="15" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zVnAbdgR_E_ziGiumIPv-21" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Confirmar cerrar sesión&lt;/span&gt;&lt;br&gt;&lt;/font&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-1945" y="438" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="zVnAbdgR_E_ziGiumIPv-33" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;b&gt;CASO DE USO (MÓDULO TRÁMITES)&lt;/b&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="-2951" y="721" width="440" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="zVnAbdgR_E_ziGiumIPv-34" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="zVnAbdgR_E_ziGiumIPv-38" target="zVnAbdgR_E_ziGiumIPv-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zVnAbdgR_E_ziGiumIPv-35" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="zVnAbdgR_E_ziGiumIPv-38" target="zVnAbdgR_E_ziGiumIPv-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zVnAbdgR_E_ziGiumIPv-36" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="zVnAbdgR_E_ziGiumIPv-38" target="zVnAbdgR_E_ziGiumIPv-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zVnAbdgR_E_ziGiumIPv-37" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="zVnAbdgR_E_ziGiumIPv-38" target="zVnAbdgR_E_ziGiumIPv-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zVnAbdgR_E_ziGiumIPv-38" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;COORDINADOR&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;br&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-3081" y="908" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zVnAbdgR_E_ziGiumIPv-39" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Seleccione el perfil correspondiente&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2881" y="781" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="zVnAbdgR_E_ziGiumIPv-40" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Ingresar usuario &lt;br&gt;y contraseña&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2881" y="871" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zVnAbdgR_E_ziGiumIPv-41" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Oprimir el&lt;br&gt;módulo&amp;nbsp;&lt;/font&gt;&lt;/font&gt;trámites" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2878" y="951" width="115" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zVnAbdgR_E_ziGiumIPv-42" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="zVnAbdgR_E_ziGiumIPv-44" target="zVnAbdgR_E_ziGiumIPv-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zVnAbdgR_E_ziGiumIPv-43" value="INCLUDE" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="zVnAbdgR_E_ziGiumIPv-42">
+          <mxGeometry x="0.2235" y="1" relative="1" as="geometry">
+            <mxPoint x="-27" y="2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zVnAbdgR_E_ziGiumIPv-44" value="Oprimir cerrar&lt;br&gt;sesión" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2868.5" y="1045" width="95" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="zVnAbdgR_E_ziGiumIPv-54" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Confirmar cerrar sesión&lt;/span&gt;&lt;br&gt;&lt;/font&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-2651" y="1055" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="zVnAbdgR_E_ziGiumIPv-55" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;b&gt;CASO DE USO (MÓDULO GESTIÓN DE USUARIOS)&lt;/b&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="-1519.5" y="121" width="500" height="500" as="geometry" />
+        </mxCell>
+        <mxCell id="zVnAbdgR_E_ziGiumIPv-56" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="zVnAbdgR_E_ziGiumIPv-60" target="zVnAbdgR_E_ziGiumIPv-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zVnAbdgR_E_ziGiumIPv-57" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="zVnAbdgR_E_ziGiumIPv-60" target="zVnAbdgR_E_ziGiumIPv-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zVnAbdgR_E_ziGiumIPv-58" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="zVnAbdgR_E_ziGiumIPv-60" target="zVnAbdgR_E_ziGiumIPv-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zVnAbdgR_E_ziGiumIPv-59" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="zVnAbdgR_E_ziGiumIPv-60" target="zVnAbdgR_E_ziGiumIPv-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zVnAbdgR_E_ziGiumIPv-60" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;DOCENTE&lt;br&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1646.5" y="350" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zVnAbdgR_E_ziGiumIPv-61" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Seleccione el perfil correspondiente&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1446.5" y="190" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="zVnAbdgR_E_ziGiumIPv-62" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Ingresar usuario &lt;br&gt;y contraseña&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1446.5" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zVnAbdgR_E_ziGiumIPv-63" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Oprimir el módulo&lt;br&gt;&lt;/font&gt;&lt;/font&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;gestión de usuarios&lt;/font&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1451.5" y="360" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zVnAbdgR_E_ziGiumIPv-64" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="zVnAbdgR_E_ziGiumIPv-66" target="zVnAbdgR_E_ziGiumIPv-76">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zVnAbdgR_E_ziGiumIPv-65" value="INCLUDE" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="zVnAbdgR_E_ziGiumIPv-64">
+          <mxGeometry x="0.2235" y="1" relative="1" as="geometry">
+            <mxPoint x="-27" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zVnAbdgR_E_ziGiumIPv-66" value="Oprimir cerrar&lt;br&gt;sesión" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1434" y="450" width="95" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="zVnAbdgR_E_ziGiumIPv-70" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="zVnAbdgR_E_ziGiumIPv-72" target="zVnAbdgR_E_ziGiumIPv-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zVnAbdgR_E_ziGiumIPv-71" value="EXTEND" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="zVnAbdgR_E_ziGiumIPv-70">
+          <mxGeometry x="0.1448" y="1" relative="1" as="geometry">
+            <mxPoint x="15" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zVnAbdgR_E_ziGiumIPv-72" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Ver información personal de docentes, directivas y estudiantes&lt;br&gt;&lt;/font&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1176.5" y="340" width="150" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="zVnAbdgR_E_ziGiumIPv-76" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Confirmar cerrar sesión&lt;/span&gt;&lt;br&gt;&lt;/font&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-1166.5" y="450" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="zVnAbdgR_E_ziGiumIPv-78" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;b&gt;CASO DE USO (MÓDULO GESTIÓN DE USUARIOS)&lt;/b&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="-730" y="120" width="510" height="510" as="geometry" />
+        </mxCell>
+        <mxCell id="zVnAbdgR_E_ziGiumIPv-79" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="zVnAbdgR_E_ziGiumIPv-83" target="zVnAbdgR_E_ziGiumIPv-84">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zVnAbdgR_E_ziGiumIPv-80" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="zVnAbdgR_E_ziGiumIPv-83" target="zVnAbdgR_E_ziGiumIPv-85">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zVnAbdgR_E_ziGiumIPv-81" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="zVnAbdgR_E_ziGiumIPv-83" target="zVnAbdgR_E_ziGiumIPv-86">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zVnAbdgR_E_ziGiumIPv-82" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="zVnAbdgR_E_ziGiumIPv-83" target="zVnAbdgR_E_ziGiumIPv-89">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zVnAbdgR_E_ziGiumIPv-83" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;ACUDIENTE&lt;br&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-870" y="360" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zVnAbdgR_E_ziGiumIPv-84" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Seleccione el perfil correspondiente&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-670" y="200" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="zVnAbdgR_E_ziGiumIPv-85" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Ingresar usuario &lt;br&gt;y contraseña&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-670" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zVnAbdgR_E_ziGiumIPv-86" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Oprimir el módulo&lt;br&gt;&lt;/font&gt;&lt;/font&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;gestión de usuarios&lt;/font&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-675" y="370" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zVnAbdgR_E_ziGiumIPv-87" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="zVnAbdgR_E_ziGiumIPv-89" target="zVnAbdgR_E_ziGiumIPv-93">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zVnAbdgR_E_ziGiumIPv-88" value="INCLUDE" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=1;" vertex="1" connectable="0" parent="zVnAbdgR_E_ziGiumIPv-87">
+          <mxGeometry x="0.2235" y="1" relative="1" as="geometry">
+            <mxPoint x="-27" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zVnAbdgR_E_ziGiumIPv-89" value="Oprimir cerrar&lt;br&gt;sesión" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-657.5" y="460" width="95" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="zVnAbdgR_E_ziGiumIPv-90" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="zVnAbdgR_E_ziGiumIPv-92" target="zVnAbdgR_E_ziGiumIPv-86">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zVnAbdgR_E_ziGiumIPv-91" value="EXTEND" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="zVnAbdgR_E_ziGiumIPv-90">
+          <mxGeometry x="0.1448" y="1" relative="1" as="geometry">
+            <mxPoint x="15" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zVnAbdgR_E_ziGiumIPv-92" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Ver información personal&lt;br&gt;del Director / Coordinador&lt;br&gt;o Docente&lt;br&gt;&lt;/font&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-415" y="352.5" width="169" height="77.5" as="geometry" />
+        </mxCell>
+        <mxCell id="zVnAbdgR_E_ziGiumIPv-93" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Confirmar cerrar sesión&lt;/span&gt;&lt;br&gt;&lt;/font&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-385.5" y="460" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="zVnAbdgR_E_ziGiumIPv-96" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;endArrow=classic;endFill=1;dashed=1;startArrow=none;startFill=0;" edge="1" parent="1" source="zVnAbdgR_E_ziGiumIPv-95" target="zVnAbdgR_E_ziGiumIPv-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zVnAbdgR_E_ziGiumIPv-97" value="EXTEND" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=0;" vertex="1" connectable="0" parent="zVnAbdgR_E_ziGiumIPv-96">
+          <mxGeometry x="0.1612" y="1" relative="1" as="geometry">
+            <mxPoint x="15" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zVnAbdgR_E_ziGiumIPv-95" value="Observar &lt;br&gt;registros&lt;br&gt;de cupos" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2670" y="881" width="100" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="zVnAbdgR_E_ziGiumIPv-117" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;b&gt;CASO DE USO (MÓDULO TRÁMITES)&lt;/b&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="-2223" y="721" width="430" height="430" as="geometry" />
+        </mxCell>
+        <mxCell id="zVnAbdgR_E_ziGiumIPv-118" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="zVnAbdgR_E_ziGiumIPv-122" target="zVnAbdgR_E_ziGiumIPv-123">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zVnAbdgR_E_ziGiumIPv-119" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="zVnAbdgR_E_ziGiumIPv-122" target="zVnAbdgR_E_ziGiumIPv-124">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zVnAbdgR_E_ziGiumIPv-120" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="zVnAbdgR_E_ziGiumIPv-122" target="zVnAbdgR_E_ziGiumIPv-125">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zVnAbdgR_E_ziGiumIPv-121" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="zVnAbdgR_E_ziGiumIPv-122" target="zVnAbdgR_E_ziGiumIPv-128">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zVnAbdgR_E_ziGiumIPv-122" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;ACUDIENTE&lt;br&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2361" y="904" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zVnAbdgR_E_ziGiumIPv-123" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Seleccione el perfil correspondiente&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2161" y="781" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="zVnAbdgR_E_ziGiumIPv-124" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Ingresar usuario &lt;br&gt;y contraseña&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2161" y="871" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zVnAbdgR_E_ziGiumIPv-125" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Oprimir el&lt;br&gt;módulo&amp;nbsp;&lt;/font&gt;&lt;/font&gt;trámites" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2158" y="951" width="115" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zVnAbdgR_E_ziGiumIPv-126" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="zVnAbdgR_E_ziGiumIPv-128" target="zVnAbdgR_E_ziGiumIPv-132">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zVnAbdgR_E_ziGiumIPv-127" value="INCLUDE" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="zVnAbdgR_E_ziGiumIPv-126">
+          <mxGeometry x="0.2235" y="1" relative="1" as="geometry">
+            <mxPoint x="-27" y="2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zVnAbdgR_E_ziGiumIPv-128" value="Oprimir cerrar&lt;br&gt;sesión" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2151.5" y="1038" width="95" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="zVnAbdgR_E_ziGiumIPv-132" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Confirmar cerrar sesión&lt;/span&gt;&lt;br&gt;&lt;/font&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-1941" y="1038" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="zVnAbdgR_E_ziGiumIPv-133" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;endArrow=classic;endFill=1;dashed=1;startArrow=none;startFill=0;" edge="1" parent="1" source="zVnAbdgR_E_ziGiumIPv-135" target="zVnAbdgR_E_ziGiumIPv-125">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zVnAbdgR_E_ziGiumIPv-134" value="EXTEND" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=0;" vertex="1" connectable="0" parent="zVnAbdgR_E_ziGiumIPv-133">
+          <mxGeometry x="0.1612" y="1" relative="1" as="geometry">
+            <mxPoint x="20" y="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zVnAbdgR_E_ziGiumIPv-135" value="Solicitar cupo" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1961" y="886" width="95" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="SfuUqs3EBxjO_rYn3UVI-1" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;b&gt;CASO DE USO (MÓDULO GESTIÓN DE USUARIOS)&lt;/b&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="-3001" y="122" width="458" height="458" as="geometry" />
+        </mxCell>
+        <mxCell id="SfuUqs3EBxjO_rYn3UVI-2" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="SfuUqs3EBxjO_rYn3UVI-6" target="SfuUqs3EBxjO_rYn3UVI-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SfuUqs3EBxjO_rYn3UVI-3" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="SfuUqs3EBxjO_rYn3UVI-6" target="SfuUqs3EBxjO_rYn3UVI-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SfuUqs3EBxjO_rYn3UVI-4" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="SfuUqs3EBxjO_rYn3UVI-6" target="SfuUqs3EBxjO_rYn3UVI-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SfuUqs3EBxjO_rYn3UVI-5" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="SfuUqs3EBxjO_rYn3UVI-6" target="SfuUqs3EBxjO_rYn3UVI-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SfuUqs3EBxjO_rYn3UVI-6" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;DIRECTOR&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;br&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-3111" y="307" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SfuUqs3EBxjO_rYn3UVI-7" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Seleccione el perfil correspondiente&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2925" y="190" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="SfuUqs3EBxjO_rYn3UVI-8" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Ingresar usuario &lt;br&gt;y contraseña&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2925" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SfuUqs3EBxjO_rYn3UVI-9" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Oprimir el módulo&lt;br&gt;&lt;/font&gt;&lt;/font&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;gestión de usuarios&lt;/font&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2930" y="360" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SfuUqs3EBxjO_rYn3UVI-10" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="SfuUqs3EBxjO_rYn3UVI-12" target="SfuUqs3EBxjO_rYn3UVI-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SfuUqs3EBxjO_rYn3UVI-11" value="INCLUDE" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=-1;" connectable="0" vertex="1" parent="SfuUqs3EBxjO_rYn3UVI-10">
+          <mxGeometry x="0.2235" y="1" relative="1" as="geometry">
+            <mxPoint x="-20" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SfuUqs3EBxjO_rYn3UVI-12" value="Oprimir cerrar&lt;br&gt;sesión" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2912.5" y="466" width="95" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="SfuUqs3EBxjO_rYn3UVI-19" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.962;entryY=0.667;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1" source="fHkMPUWU0p0HW0aizDeC-4" target="SfuUqs3EBxjO_rYn3UVI-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-2699" y="398" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SfuUqs3EBxjO_rYn3UVI-20" value="EXTEND" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=0;" connectable="0" vertex="1" parent="SfuUqs3EBxjO_rYn3UVI-19">
+          <mxGeometry x="0.0914" relative="1" as="geometry">
+            <mxPoint x="15" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SfuUqs3EBxjO_rYn3UVI-22" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Confirmar cerrar sesión&lt;/span&gt;&lt;br&gt;&lt;/font&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-2703" y="467" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="SfuUqs3EBxjO_rYn3UVI-42" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;b&gt;CASO DE USO (MÓDULO TRÁMITES)&lt;/b&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="-3704" y="722" width="460" height="460" as="geometry" />
+        </mxCell>
+        <mxCell id="SfuUqs3EBxjO_rYn3UVI-43" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="SfuUqs3EBxjO_rYn3UVI-47" target="SfuUqs3EBxjO_rYn3UVI-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SfuUqs3EBxjO_rYn3UVI-44" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="SfuUqs3EBxjO_rYn3UVI-47" target="SfuUqs3EBxjO_rYn3UVI-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SfuUqs3EBxjO_rYn3UVI-45" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="SfuUqs3EBxjO_rYn3UVI-47" target="SfuUqs3EBxjO_rYn3UVI-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SfuUqs3EBxjO_rYn3UVI-46" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="SfuUqs3EBxjO_rYn3UVI-47" target="SfuUqs3EBxjO_rYn3UVI-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SfuUqs3EBxjO_rYn3UVI-47" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;DIRECTOR&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;br&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-3840" y="942" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SfuUqs3EBxjO_rYn3UVI-48" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Seleccione el perfil correspondiente&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-3640" y="802" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="SfuUqs3EBxjO_rYn3UVI-49" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Ingresar usuario &lt;br&gt;y contraseña&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-3640" y="892" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SfuUqs3EBxjO_rYn3UVI-50" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Oprimir el&lt;br&gt;módulo&amp;nbsp;&lt;/font&gt;&lt;/font&gt;trámites" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-3637" y="972" width="115" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SfuUqs3EBxjO_rYn3UVI-51" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="SfuUqs3EBxjO_rYn3UVI-53" target="SfuUqs3EBxjO_rYn3UVI-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SfuUqs3EBxjO_rYn3UVI-52" value="INCLUDE" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="SfuUqs3EBxjO_rYn3UVI-51">
+          <mxGeometry x="0.2235" y="1" relative="1" as="geometry">
+            <mxPoint x="-20" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SfuUqs3EBxjO_rYn3UVI-53" value="Oprimir cerrar&lt;br&gt;sesión" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-3627.5" y="1066" width="95" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="SfuUqs3EBxjO_rYn3UVI-57" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Confirmar cerrar sesión&lt;/span&gt;&lt;br&gt;&lt;/font&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-3407" y="1072" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="SfuUqs3EBxjO_rYn3UVI-58" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;endArrow=classic;endFill=1;dashed=1;startArrow=none;startFill=0;" edge="1" parent="1" source="SfuUqs3EBxjO_rYn3UVI-60" target="SfuUqs3EBxjO_rYn3UVI-50">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-3343.999999999998" y="1003" as="sourcePoint" />
+            <mxPoint x="-3524.99" y="1004" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SfuUqs3EBxjO_rYn3UVI-59" value="EXTEND" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=0;" connectable="0" vertex="1" parent="SfuUqs3EBxjO_rYn3UVI-58">
+          <mxGeometry x="0.1612" y="1" relative="1" as="geometry">
+            <mxPoint x="12" y="-10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SfuUqs3EBxjO_rYn3UVI-60" value="Observar &lt;br&gt;registros&lt;br&gt;de cupos" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-3416" y="890" width="100" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="y3YfDfOMxSSAQq5WPoW1-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="y3YfDfOMxSSAQq5WPoW1-1" target="SfuUqs3EBxjO_rYn3UVI-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y3YfDfOMxSSAQq5WPoW1-3" value="EXTEND" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="y3YfDfOMxSSAQq5WPoW1-2">
+          <mxGeometry x="-0.1589" y="3" relative="1" as="geometry">
+            <mxPoint x="5" y="-3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y3YfDfOMxSSAQq5WPoW1-1" value="Realizar citación" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-3416" y="987" width="110" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="y3YfDfOMxSSAQq5WPoW1-5" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="y3YfDfOMxSSAQq5WPoW1-4" target="zVnAbdgR_E_ziGiumIPv-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y3YfDfOMxSSAQq5WPoW1-6" value="EXTEND" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="y3YfDfOMxSSAQq5WPoW1-5">
+          <mxGeometry x="-0.1525" y="1" relative="1" as="geometry">
+            <mxPoint x="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y3YfDfOMxSSAQq5WPoW1-4" value="Realizar citacion" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2665.5" y="971" width="110" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="y3YfDfOMxSSAQq5WPoW1-8" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="y3YfDfOMxSSAQq5WPoW1-7" target="zVnAbdgR_E_ziGiumIPv-125">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y3YfDfOMxSSAQq5WPoW1-9" value="EXTEND" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="y3YfDfOMxSSAQq5WPoW1-8">
+          <mxGeometry x="-0.186" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y3YfDfOMxSSAQq5WPoW1-7" value="Realizar citacion" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1952.5" y="978" width="110" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="y3YfDfOMxSSAQq5WPoW1-10" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;b&gt;CASO DE USO (MÓDULO TRÁMITES)&lt;/b&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="-1481" y="721" width="440" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="y3YfDfOMxSSAQq5WPoW1-11" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="y3YfDfOMxSSAQq5WPoW1-15" target="y3YfDfOMxSSAQq5WPoW1-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y3YfDfOMxSSAQq5WPoW1-12" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="y3YfDfOMxSSAQq5WPoW1-15" target="y3YfDfOMxSSAQq5WPoW1-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y3YfDfOMxSSAQq5WPoW1-13" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="y3YfDfOMxSSAQq5WPoW1-15" target="y3YfDfOMxSSAQq5WPoW1-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y3YfDfOMxSSAQq5WPoW1-14" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="y3YfDfOMxSSAQq5WPoW1-15" target="y3YfDfOMxSSAQq5WPoW1-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y3YfDfOMxSSAQq5WPoW1-15" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;DOCENTE&lt;br&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1607" y="886" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="y3YfDfOMxSSAQq5WPoW1-16" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Seleccione el perfil correspondiente&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1407" y="781" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="y3YfDfOMxSSAQq5WPoW1-17" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Ingresar usuario &lt;br&gt;y contraseña&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1407" y="871" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="y3YfDfOMxSSAQq5WPoW1-18" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Oprimir el&lt;br&gt;módulo&amp;nbsp;&lt;/font&gt;&lt;/font&gt;trámites" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1404" y="951" width="115" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="y3YfDfOMxSSAQq5WPoW1-19" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="y3YfDfOMxSSAQq5WPoW1-21" target="y3YfDfOMxSSAQq5WPoW1-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y3YfDfOMxSSAQq5WPoW1-20" value="INCLUDE" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="y3YfDfOMxSSAQq5WPoW1-19">
+          <mxGeometry x="0.2235" y="1" relative="1" as="geometry">
+            <mxPoint x="-27" y="2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y3YfDfOMxSSAQq5WPoW1-21" value="Oprimir cerrar&lt;br&gt;sesión" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1394.5" y="1026" width="95" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="y3YfDfOMxSSAQq5WPoW1-22" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Confirmar cerrar sesión&lt;/span&gt;&lt;br&gt;&lt;/font&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-1178" y="1029" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="y3YfDfOMxSSAQq5WPoW1-26" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="y3YfDfOMxSSAQq5WPoW1-28" target="y3YfDfOMxSSAQq5WPoW1-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y3YfDfOMxSSAQq5WPoW1-27" value="EXTEND" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="y3YfDfOMxSSAQq5WPoW1-26">
+          <mxGeometry x="-0.186" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y3YfDfOMxSSAQq5WPoW1-28" value="Realizar citación" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1184.5" y="961" width="110" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="NNJLGxEd74ArwUN1WmqN-1" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;b&gt;CASO DE USO (MÓDULO GESTIÓN DE USUARIOS)&lt;/b&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="-3701.5" y="122" width="465" height="465" as="geometry" />
+        </mxCell>
+        <mxCell id="NNJLGxEd74ArwUN1WmqN-2" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="NNJLGxEd74ArwUN1WmqN-6" target="NNJLGxEd74ArwUN1WmqN-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NNJLGxEd74ArwUN1WmqN-3" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="NNJLGxEd74ArwUN1WmqN-6" target="NNJLGxEd74ArwUN1WmqN-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NNJLGxEd74ArwUN1WmqN-4" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="NNJLGxEd74ArwUN1WmqN-6" target="NNJLGxEd74ArwUN1WmqN-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NNJLGxEd74ArwUN1WmqN-5" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="NNJLGxEd74ArwUN1WmqN-6" target="NNJLGxEd74ArwUN1WmqN-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NNJLGxEd74ArwUN1WmqN-6" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;ADMINISTRADOR&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;br&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-3840" y="345" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NNJLGxEd74ArwUN1WmqN-7" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Seleccione el perfil correspondiente&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-3640" y="185" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="NNJLGxEd74ArwUN1WmqN-8" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Ingresar usuario &lt;br&gt;y contraseña&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-3640" y="275" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NNJLGxEd74ArwUN1WmqN-9" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Oprimir el módulo&lt;br&gt;&lt;/font&gt;&lt;/font&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;gestión de usuarios&lt;/font&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-3645" y="355" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NNJLGxEd74ArwUN1WmqN-10" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="NNJLGxEd74ArwUN1WmqN-12" target="NNJLGxEd74ArwUN1WmqN-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NNJLGxEd74ArwUN1WmqN-11" value="INCLUDE" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=-1;" connectable="0" vertex="1" parent="NNJLGxEd74ArwUN1WmqN-10">
+          <mxGeometry x="0.2235" y="1" relative="1" as="geometry">
+            <mxPoint x="-27" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NNJLGxEd74ArwUN1WmqN-12" value="Oprimir cerrar&lt;br&gt;sesión" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-3627.5" y="495" width="95" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="NNJLGxEd74ArwUN1WmqN-13" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="NNJLGxEd74ArwUN1WmqN-15" target="NNJLGxEd74ArwUN1WmqN-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NNJLGxEd74ArwUN1WmqN-14" value="EXTEND" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=-15;" connectable="0" vertex="1" parent="NNJLGxEd74ArwUN1WmqN-13">
+          <mxGeometry x="-0.106" relative="1" as="geometry">
+            <mxPoint x="-6" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NNJLGxEd74ArwUN1WmqN-15" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Añadir&lt;br&gt;usuario&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-3370" y="295" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="NNJLGxEd74ArwUN1WmqN-16" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="NNJLGxEd74ArwUN1WmqN-18" target="NNJLGxEd74ArwUN1WmqN-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NNJLGxEd74ArwUN1WmqN-17" value="EXTEND" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="NNJLGxEd74ArwUN1WmqN-16">
+          <mxGeometry x="0.1448" y="1" relative="1" as="geometry">
+            <mxPoint x="15" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NNJLGxEd74ArwUN1WmqN-18" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Modificar&lt;br&gt;usuario&lt;br&gt;&lt;/font&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-3370" y="360" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="NNJLGxEd74ArwUN1WmqN-19" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.962;entryY=0.667;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1" source="NNJLGxEd74ArwUN1WmqN-21" target="NNJLGxEd74ArwUN1WmqN-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NNJLGxEd74ArwUN1WmqN-20" value="EXTEND" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=20;" connectable="0" vertex="1" parent="NNJLGxEd74ArwUN1WmqN-19">
+          <mxGeometry x="0.0914" relative="1" as="geometry">
+            <mxPoint x="15" y="5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NNJLGxEd74ArwUN1WmqN-21" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Cambiar estado&lt;br&gt;de usuario&lt;/font&gt;&lt;/font&gt;&lt;br&gt;&lt;/font&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-3375" y="425" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="NNJLGxEd74ArwUN1WmqN-22" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Confirmar cerrar sesión&lt;/span&gt;&lt;br&gt;&lt;/font&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-3370" y="495" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="fHkMPUWU0p0HW0aizDeC-3" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Ver información personal de docentes, directivas y estudiantes&lt;br&gt;&lt;/font&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1963" y="338" width="150" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="fHkMPUWU0p0HW0aizDeC-4" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Ver información personal de docentes, directivas y estudiantes&lt;br&gt;&lt;/font&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2703" y="355" width="150" height="90" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
